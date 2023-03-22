@@ -1,4 +1,3 @@
 # IU-my-love
-this is src in angular :eyes:
-require : 1. angular
-          2. node js
+this is src in angular :eyes: <br>
+require : angular & node js :pushpin:
